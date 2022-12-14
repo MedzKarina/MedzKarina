@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @MedzKarina
+- 👀 I’m interested in Data Science
